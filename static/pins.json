@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "location": "NYC",
+    "latitude": 40.76430777109794,
+    "longitude": -73.9563084130738
+  },
+  {
+    "id": 2,
+    "location": "California",
+    "latitude": 37.565187253401895,
+    "longitude": -122.3261970733414
+  },
+  {
+    "id": 3,
+    "location": "Mississippi",
+    "latitude": 32.33667314639376,
+    "longitude": -90.16370431766134
+  },
+  {
+    "id": 4,
+    "location": "Chicago",
+    "latitude": 41.788152671617596,
+    "longitude": -87.60583394437893
+  },
+  {
+    "id": 5,
+    "location": "Canada",
+    "latitude": 43.55790595349935,
+    "longitude": -79.70398327315836
+  },
+  {
+    "id": 6,
+    "location": "New Jersey",
+    "latitude": 39.9707439128258,
+    "longitude": -74.91759541534336
+  }
+]
